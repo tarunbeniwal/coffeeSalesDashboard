@@ -1,23 +1,23 @@
-# Sales Dashboard (Excel)
+# Coffee Sales Dashboard (Excel)
 
 ## Overview
-An interactive Excel dashboard designed to track sales performance across multiple categories. Provides key insights into revenue trends, top products, and regional performance.
+An Excel dashboard designed to track coffee sales performance. It highlights top products, revenue growth, and customer trends across regions and time periods.
 
 ## Features
-- Interactive slicers for filtering by region, product, or time period  
-- Visual KPIs for sales growth and revenue distribution  
-- Trend analysis charts  
+- Interactive filters by country, product, and time period  
+- Revenue trends and growth rate visualization  
+- Top-selling products and regional performance analysis  
 
 ## Tech Stack
-- Microsoft Excel (Pivot tables, Charts, Conditional Formatting)
+- Microsoft Excel (Pivot Tables, Charts, Slicers)
 
 ## How to Run
-1. Download the Excel file from the repo  
-2. Enable editing and macros (if applicable)  
-3. Use slicers/filters to interact with the dashboard  
+1. Download the Excel file  
+2. Enable editing  
+3. Explore coffee sales insights through filters and slicers  
 
 ## Learning / Takeaways
-This project helped me strengthen my skills in Excel automation, data cleaning, and dashboard design for business intelligence.
+This project strengthened my skills in sales analytics and dashboard design, helping me understand how to present business KPIs effectively.
 
 # Dashboard Screenshots
 ![salesDashboard](images/salesDashboard.png)
